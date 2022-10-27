@@ -1,0 +1,11 @@
+{
+	"blocks": [
+		{
+			"type": "section",
+			"text": {
+				"type": "mrkdwn",
+				"text": "*<https://github.com/sqsp/squarespace-v6/compare/ea272f6bbcac...741462e47eed|Build failed>*\n*<https://delivery.squarespace.net/sqsp/squarespace-v6/202589|:Marshmallow: Marshmallow failed>*\n:Fire: Bonfire: <https://bonfire.squarespace.net/drone/sqsp/squarespace-v6/202589/marshmallow-e2e-blocking|Build #202589> | <https://bonfire.squarespace.net/drone/sqsp/squarespace-v6/202589/marshmallow-e2e-blocking/allure/report/index.html|Allure report>\n:jira: Test Execution: <https://squarespace.atlassian.net/issues/?jql=description%20~%20%22Build%3A%20202589%22|JIRA Test Execution>\n:gottarun::book: Runbook: <https://goto/m9w/runbook|M9W Runbook>"
+			}
+		}
+	]
+}
